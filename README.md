@@ -1,1 +1,1 @@
-"# Jigsaw toxic severity rating kaggle competition" 
+# Jigsaw toxic severity rating kaggle competition
